@@ -1,6 +1,6 @@
 # 🎲 Dice Roller App (Flutter)
 
-A simple Flutter app that simulates rolling a dice. Press the roll button, and the app will display a random dice face between 1 and 6. Great for beginners learning Flutter, state management, and UI updates!
+A simple Flutter app that simulates rolling a dice. Press the roll button, and the app will display a random dice face between 1 and 6.
 
 ---
 
@@ -48,8 +48,13 @@ git clone https://github.com/your-username/dice-roller.git
 cd dice-roller
 flutter pub get
 flutter run
+
+```
+### 📁Project Directory
+```
 lib/
   └── main.dart       # Main app file
 assets/
   └── dice1.png       # Dice images from 1 to 6
   └── ...
+```

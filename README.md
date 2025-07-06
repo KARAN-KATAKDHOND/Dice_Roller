@@ -8,7 +8,7 @@ A simple Flutter app that simulates rolling a dice. Press the roll button, and t
 
 <p align="center">
   Home Screen
-  <img src="assets/ss.png" width="250">
+  <img src="assets/images/ss.png" width="250">
 </p>
 
 
